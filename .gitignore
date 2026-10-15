@@ -1,0 +1,21 @@
+# Data
+data/
+
+# Generated outputs
+submission.csv
+modelo_final.pth
+norm_stats.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
